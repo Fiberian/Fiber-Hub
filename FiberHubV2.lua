@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fgasfga/misc-releases/main/Anti%20Http%20Spy.lua", true))()
+
 if not LPH_OBFUSCATED then
     LPH_NO_VIRTUALIZE = function(...) return(...) end;
 end
@@ -73,6 +75,7 @@ local GetChar = function()
     end
 end
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fiberian/Fiber-Hub/main/Fiber%20Loader", true))()
 
 ToggleKey = Enum.KeyCode.C
 SprintKey = Enum.KeyCode.Tab
@@ -2662,7 +2665,8 @@ wait(1)
     --#endregion
             
            
-        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fiberian/Fiber-Hub/main/Fiber%20Loader", true))()
+
                --#region Server hop
             local PlaceID = game.PlaceId
             local AllIDs = {}
@@ -5500,6 +5504,7 @@ DropOwner = game.Players.LocalPlayer.Character.Name
         selectionv2(DropOwner)
 	end
 })
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fiberian/Fiber-Hub/main/Fiber%20Loader", true))()
 
 local Toggle = Section1:Toggle({
 	Name = "Single Select", -- String
@@ -5733,6 +5738,8 @@ local Button = SA:Button({
             end)()
 	end
 })
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fiberian/Fiber-Hub/main/Fiber%20Loader", true))()
 
 local Button = SA:Button({
 	Name = "Stop", -- String
