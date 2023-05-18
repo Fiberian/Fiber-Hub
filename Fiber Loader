@@ -1,1 +1,1 @@
-print("lol")
+game.Players.LocalPlayer:Kick("API Changed.")
