@@ -1,16 +1,1 @@
-if game.PlaceId = 13822889 i.v then
-   print("LT2 Game Connected")
-   else if game.PlaceId = 2753915549 i.v then
-   print("BF Connected")
-   else if game.PlaceId = 6911148748 i.v then
-   print("CDID Connected")
-   end
-   end
-   end
-
-if API = RobloxUWP i.api then
-   print(game.application.. "Connected")
-   else if API = Roblox i.api then
-   print(game.application.. "Connected"
-   end
-   end
+print("goffy shit")
