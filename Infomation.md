@@ -21,13 +21,50 @@
   </p>
 </div>
 
-# Fiber Hub Team
+<h3 align="center">····</h3>
+<h3 align="center">···</h3>
+<h3 align="center">··</h3>
+<h3 align="center">·</h3>
 
+<h3 align="center">Member Question</h3>
+<p align="center">
+    Last updated on 𝟐𝟑 𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟑
+  <p/>
+  </div>
+  
+- Does Fiberhub copy luaware and butter?<br />
+`Moderator :` ***We only copied a few, we scripted the rest ourselves***
+
+- Why does fiber hub take so long to update<br />
+`Moderator :` ***All fiber hub developers are still learning lua and very busy***
+
+
+- Why does the executor crash when executing fiber hub?<br />
+`Founder :` ***Because your Executor cannot load all script functions***
+
+
+- Does the fiber hub have a key to access it?<br />
+`Moderator :` ***No, we do not create a key system to access our scripts***
+
+- How to report bugs?<br />
+`Moderator :` ***You can report bugs from the official fiber hub website:*** <a href="https://fiberhub.xyz/api/reportbug">Click Me</a>
+
+- Are All Fiber Hub Features Free To Use?<br />
+`Developer :` ***Yes.***
+
+<h3 align="center">Information</h3>
+<p align="center">
+    Last updated on 𝟐𝟑 𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟑
+  <p/>
+  </div>
+  
+  # Fiber Team
 | Discord Nickname | Role |
 |-----:|-----------|
 |     patah gaming#1237| Better Than Founder|
 |     Gabzヅ#1111| Founder    |
 |     Skidzo#2726| Co-Founder       |
+
 
 ## Source Credits
 
@@ -42,11 +79,3 @@
 <a href="https://discord.gg/luaware">Join Luaware Discord</a>
 ·
 <a href="https://discord.gg/butterhub">Join Butter Hub Discord</a>
-
-<h3 align="center">Member Question</h3>
-<p align="center">
-    Last updated on ***June 10, 2023***
-  <p/>
-  </div>
-- Does Fiberhub copy luaware and butter?<br />
-__Moderator :__ **We only copied a few, we scripted the rest ourselves**
