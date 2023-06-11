@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -49,7 +49,7 @@
 - How to report bugs?<br />
 `Moderator :` ***You can report bugs from the official fiber hub website:*** <a href="https://fiberhub.xyz/api/reportbug">Click Me</a>
 
-- Are All Fiber Hub Features Free To Use?<br />
+ - Are All Fiber Hub Features Free To Use?<br />
 `Developer :` ***Yes.***
 
 <h3 align="center">Information</h3>
@@ -70,7 +70,7 @@
 
 | Discord Community | Owner |
 |-----:|-----------|
-|     Luaware | 50calspecialist|
+|            Luaware | 50calspecialist|
 |     - | silentbenx    |
 |     Butter Hub| Applebox       |
 
@@ -79,3 +79,7 @@
 <a href="https://discord.gg/luaware">Join Luaware Discord</a>
 ·
 <a href="https://discord.gg/butterhub">Join Butter Hub Discord</a>
+
+> What is a fiber hub?
+
+Fiber hub is Lumber tycoon 2 gui,with a much nicer looking ui
