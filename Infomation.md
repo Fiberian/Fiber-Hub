@@ -74,9 +74,8 @@
 |     - | silentbenx    |
 |     Butter Hub| Applebox       |
 
-- **We never claim that the source of our script is scripted by us, we only script 45% of the open source script, we admit that we are skidders, we give this credit to those who open source the lt2 script, we thank you very much!**a
-
-<a href="https://discord.gg/luaware">Join Luaware Discord</a>
+> **Note** <br/>
+We never claim that the source of our script is scripted by us, we only script 45% of the open source script, we admit that we are skidders, we give this credit to those who open source the lt2 script, we thank you very much!, ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://discord.gg/luaware">Join Luaware Discord</a>
 ·
 <a href="https://discord.gg/butterhub">Join Butter Hub Discord</a>
 
