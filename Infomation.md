@@ -1,14 +1,14 @@
-
-<br />
-<div align="center">
-  <a href="https://github.com">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+<p align="center">
+  <a href="">
+    <img alt="Fiber Hub Information" src="logo.png" width="80" />
   </a>
-
-  <h3 align="center">About Fiber Hub</h3>
+</p>
+<h1 align="center">
+  Fiber Hub Information 
+</h1>
 
   <p align="center">
-    All member questions from Fiber Hub and Fiber Hub Information
+    <strong>All member questions from Fiber Hub and Fiber Hub Information
     <br />
     <a href="https://discord.gg/4wp7uhsnvh"><strong>Join discord for more Information »</strong></a>
     <br />
@@ -28,7 +28,7 @@
 
 <h3 align="center">Member Question</h3>
 <p align="center">
-    Last updated on 𝟐𝟑 𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟑
+    Last updated on <strong>24 June 2023
   <p/>
   </div>
   
@@ -54,7 +54,7 @@
 
 <h3 align="center">Information</h3>
 <p align="center">
-    Last updated on 𝟐𝟑 𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟑
+    Last updated on <strong>24 June 2023
   <p/>
   </div>
   
@@ -74,12 +74,18 @@
 |     - | silentbenx    |
 |     Butter Hub| Applebox       |
 
-- **We never claim that the source of our script is scripted by us, we only script 45% of the open source script, we admit that we are skidders, we give this credit to those who open source the lt2 script, we thank you very much!**
+- **We never claim that the source of our script is scripted by us, we only script 45% of the open source script, we admit that we are skidders, we give this credit to those who open source the lt2 script, we thank you very much!**a
 
 <a href="https://discord.gg/luaware">Join Luaware Discord</a>
 ·
 <a href="https://discord.gg/butterhub">Join Butter Hub Discord</a>
 
-> What is a fiber hub?
+> **Note** <br/>
+> We will give early access to people who showcase our script, provided they don't leak our v3. We have an execution log for v3 early access, so you don't just leak v3 from us.
 
-Fiber hub is Lumber tycoon 2 gui,with a much nicer looking ui
+
+> **Warning** <br/>
+> We can see the total execution, but we can't see the username/ip/hwid of the person who executed our script, we really care about your privacy, we have never made an ip logger, you can see our source code if you don't believe it, and if anyone does slander me using ip logger you can dm me
+
+
+
