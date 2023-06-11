@@ -28,7 +28,7 @@
 
 <h3 align="center">Member Question</h3>
 <p align="center">
-    Last updated on <strong>24 June 2023
+    Last updated on <strong>12 June 2023
   <p/>
   </div>
   
@@ -54,7 +54,7 @@
 
 <h3 align="center">Information</h3>
 <p align="center">
-    Last updated on <strong>24 June 2023
+    Last updated on <strong>12 June 2023
   <p/>
   </div>
   
